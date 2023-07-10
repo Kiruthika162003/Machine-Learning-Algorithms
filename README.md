@@ -25,7 +25,7 @@ Machine Learning
 |8.|SVM |  ML Algorithm|  [Link](https://www.linkedin.com/pulse/svm-kiruthika-s/?trackingId=MTd6HmQOPsU9jgyxv4OHqg%3D%3D)|
 |9.|Hierarchical Clustering algorithm | ML Algorithm |  [Link](https://www.linkedin.com/pulse/hierarchial-clustering-kiruthika-s/?trackingId=ZUHdnNQHja6Fn3SvETTjDQ%3D%3D)|
 |10.|PCA| ML Algorithm |  [Link](https://www.linkedin.com/pulse/pca-kiruthika-s/?trackingId=YT%2FlUt6V79dtxGAsS3WeJw%3D%3D)|
-
+|11.|Gradient Boosting| ML Algorithm | [Link](https://www.linkedin.com/pulse/gradient-boosting-kiruthika-s)|
 
 
 
