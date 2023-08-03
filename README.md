@@ -26,8 +26,9 @@ Machine Learning
 |9.|Hierarchical Clustering algorithm | ML Algorithm |  [Link](https://www.linkedin.com/pulse/hierarchial-clustering-kiruthika-s/?trackingId=ZUHdnNQHja6Fn3SvETTjDQ%3D%3D)|
 |10.|PCA| ML Algorithm |  [Link](https://www.linkedin.com/pulse/pca-kiruthika-s/?trackingId=YT%2FlUt6V79dtxGAsS3WeJw%3D%3D)|
 |11.|Gradient Boosting| ML Algorithm | [Link](https://www.linkedin.com/pulse/gradient-boosting-kiruthika-s)|
-
-
+|12.|XGBoost| ML Algorithm | [Link](https://www.linkedin.com/pulse/xgboost-kiruthika-s)|
+|13.|ARIMA| ML Algorithm | [Link](https://www.linkedin.com/pulse/arima-kiruthika-s)|
+|14.|SARIMA| ML Algorithm | [Link](https://www.linkedin.com/pulse/sarima-kiruthika-s)|
 
 
 
