@@ -1,4 +1,4 @@
-# blogs
+# Articles
  Artificial Intelligence
  
 |S.NO      |Title          | Description| Link |
