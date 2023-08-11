@@ -29,7 +29,7 @@ Machine Learning
 |12.|XGBoost| ML Algorithm | [Link](https://www.linkedin.com/pulse/xgboost-kiruthika-s)|
 |13.|ARIMA| ML Algorithm | [Link](https://www.linkedin.com/pulse/arima-kiruthika-s)|
 |14.|SARIMA| ML Algorithm | [Link](https://www.linkedin.com/pulse/sarima-kiruthika-s)|
-
+|15.|Apriori| ML Algorithm | [Link](https://www.linkedin.com/pulse/apriori-algorithm-kiruthika-subramani)|
 
 
 
